@@ -33,7 +33,7 @@ This project demonstrates the use of Large Language Models (LLMs) to perform dat
 
 ### Repository Structure
 ```
-├── llm_queries.ipynb          # Main Jupyter notebook with analysis
+├── queries_to_code_groq.ipynb          # Main Jupyter notebook with analysis
 ├── README.md                  # This file
 └── requirements.txt           # Python dependencies
 ```
